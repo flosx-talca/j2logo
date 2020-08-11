@@ -1,2 +1,2 @@
 # ejecutar
-Python3 ejercicio13.py
+python3 ejercicio13.py
