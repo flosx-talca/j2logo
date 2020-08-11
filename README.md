@@ -1,2 +1,2 @@
-# j2logo
-Python j2logo
+# ejecutar
+Python3 ejercicio13.py
